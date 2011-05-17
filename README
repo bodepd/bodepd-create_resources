@@ -2,6 +2,9 @@ create_resources
 
 This is the create_resources module.
 
+*NOTE* - this has been accepted into 2.7.x core, I am publishing it seperately 
+so that it can be used with 2.6.x
+
   This function allows you to dynamically generate resources,
   passing them as a hash to the create_resources function.
   
