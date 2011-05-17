@@ -1,11 +1,11 @@
 name    'bodepd-create_resources'
 version '0.0.1'
-source 'UNKNOWN'
+source 'https://github.com/bodepd/bodepd-create_resources'
 author 'bodepd'
 license 'Apache'
 summary 'Function for dyncamically generating resources'
-description 'UNKNOWN'
-project_page 'UNKNOWN'
+description 'Function for dyncamically generating resources'
+project_page 'https://github.com/bodepd/bodepd-create_resources'
 
 ## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+# dependency 'puppet', '>= 2.6.4'
